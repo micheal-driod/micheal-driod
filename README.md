@@ -17,7 +17,7 @@ A military-grade communication suite connecting a **PC Headquarters** to **Andro
 * **Platform:** Windows/Linux Server ↔ Android Client (Kivy/Buildozer).
 * **Key Features:** Global Kill Switch, Remote Destruct, Voice Radio (PTT), Port Scanner.
 
-[**View the Code »**]((https://github.com/micheal-driod/micheal-driod/README.md)) 
+[**View the Code »**](https://github.com/micheal-driod/DROID-SHIELD-V1)
 
 ---
 
@@ -33,14 +33,13 @@ A military-grade communication suite connecting a **PC Headquarters** to **Andro
 
 ### 📊 **GitHub Stats**
 
-![Segun's GitHub stats](https://github-readme-stats.vercel.app/api?username=micheal-driod&show_icons=true&theme=dark&hide_border=true)
-
+![Segun's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=micheal-driod&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
 ### 📬 **Connect With Me**
-* **LinkedIn:** [https://www.linkedin.com/in/adegbite-segun-59517416a/]
-* **Email:** *(adegbitesegunmic02@gmail.com)*
+* **LinkedIn:** [linkedin.com/in/segun-michael](https://linkedin.com) 
+* **Email:** segunmichaeladegbite@gmail.com
 
 ---
 *“Talk is cheap. Show me the code.”*
