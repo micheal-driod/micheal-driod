@@ -39,7 +39,7 @@ A military-grade communication suite connecting a **PC Headquarters** to **Andro
 
 ### 📬 **Connect With Me**
 * **LinkedIn:** [linkedin.com/in/segun-michael](https://linkedin.com) 
-* **Email:** segunmichaeladegbite@gmail.com
+* **Email:** adegbitesegunmic02@gmail.com
 
 ---
 *“Talk is cheap. Show me the code.”*
